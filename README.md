@@ -1,6 +1,6 @@
 # Anomaly detection and Curve classification
 
-### Requirements
+(### Requirements)
 
 -------
 
@@ -10,7 +10,7 @@ see `requirements.txt` for necessary modules.
 
 
 
-### Curve classification
+(### Curve-classification)
 
 --------
 
@@ -43,7 +43,7 @@ After the run, we will have `features_csv, curve_model_KMeans.pkl, rforest_model
 
 
 
-### Anomaly Detection
+(### Anomaly-Detection)
 
 --------
 
@@ -69,7 +69,7 @@ Because I did anomaly detection first, so I did not really specify what the inpu
 
 
 
-### Combination
+(### Combination)
 
 -------
 
