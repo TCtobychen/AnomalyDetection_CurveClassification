@@ -23,7 +23,7 @@ Put only data csvs and python files in this folder like following
 
 Data csvs should contain two columns, first is timestamp and second is value. The first row should labeled as 'timestamp' and 'value' like following:
 
-![img](C:\Users\TOBYZX~1\AppData\Local\Temp\企业微信截图_153542558422.png)
+![data](C:\Users\tobyzxchen\Desktop\Real_Final\data.png)
 
 #### Usage
 
